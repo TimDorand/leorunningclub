@@ -1,6 +1,6 @@
 Wordpress Leo Running Club
 
-Pour installer créer un nouvelle base de donnée: "leorunningclub"
-Importer le fichier sql.
+Pour installer le wp, créez un nouvelle base de donnée: "leorunningclub"
+Importez le fichier sql.
 
 Mot de passe et pseudo: root.
