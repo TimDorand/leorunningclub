@@ -27,10 +27,10 @@ $header_bar_menu = wp_nav_menu( array(
 	<div class="header-bar<?php echo esc_attr( $subheader_class ); ?>">
 		<div class="container">
 			<a class="skip-link screen-reader-text" href="#site-content"><?php esc_html_e( 'Skip to content', 'make' ); ?></a>
-			<?php // Search form
+		<!--	--><?php /*// Search form
 			if ( 1 === $show_search ) :
 				get_search_form();
-			endif; ?>
+			endif; */?>
 			<?php // Social links
 			ttfmake_maybe_show_social_links( 'header' ); ?>
 			<?php // Header text; shown only if there is no header menu

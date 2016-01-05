@@ -657,3 +657,8 @@ add_action( 'customize_controls_print_styles', 'ttfmake_plus_styles', 20 );
 function ttfmake_get_plus_link( $deprecated = '' ) {
 	return 'https://thethemefoundry.com/make-buy/';
 }
+
+//EDIT TIMOTHEE
+
+show_admin_bar( false );
+
